@@ -13,20 +13,20 @@ class Behnoud:
 
 ### `$ ls projects/`
 
-#### **[Object Detection System](https://github.com/behnoudng/object-detection)**
+#### **[Suicide Probability Prediction](https://github.com/behnoudng/suicide-detection)**
 
-Pretrained HuggingFace models for object detection   
-Stack: Python, PyTorch, Jupyter
+MentalBERT fine-tuned on 347k instances of suicidal and non-suicidal text. 
+Stack: Python, Pytorch, Scikit-learn
 
-#### **[Multilingual Sentiment Analysis](https://github.com/behnoudng/sentiment-analysis)**
+#### **[Actify](https://github.com/behnoudng/actify-fa)**
 
-English & Persian sentiment analysis using HuggingFace APIs   
-Stack: Python, Transformers, NLP
+A Django-based goal management application that breaks down your goals into actionable to-do lists.
+Stack: Python, JavaScript, Ajax, JQuery, Django, OpenAI API
 
-#### **[behnoudng.com](http://behnoudng.com/)**
+#### **[PromptBase](https://github.com/behnoudng/prompt_base)**
 
-Personal portfolio site   
-Stack: Bootstrap, JavaScript
+A database that allows you to easily find the best AI prompts on the internet.  
+Stack: Python, JavaScript, Django, Ajax
 
 ---
 
