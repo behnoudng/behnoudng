@@ -15,7 +15,7 @@ class Behnoud:
 
 #### **[Suicide Probability Prediction](https://github.com/behnoudng/suicide-detection)**
 
-MentalBERT fine-tuned on 347k instances of suicidal and non-suicidal text.    
+MentalBERT fine-tuned on 232k instances of suicidal and non-suicidal text.    
 Stack: Python, Pytorch, Scikit-learn
 
 #### **[Actify](https://github.com/behnoudng/actify-fa)**
