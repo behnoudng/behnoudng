@@ -18,10 +18,18 @@ class Behnoud:
 MentalBERT fine-tuned on 232k instances of suicidal and non-suicidal text.    
 Stack: Python, Pytorch, Scikit-learn
 
+#### **[Sign Language Detector](https://github.com/behnoudng/SLD)**
+
+Real-time isolated sign recognition using a webcam, MediaPipe landmarks, and a small Transformer classifier.
+
 #### **[Actify](https://github.com/behnoudng/actify-fa)**
 
 A Django-based goal management application that breaks down your goals into actionable to-do lists.
 Stack: Python, JavaScript, Ajax, JQuery, Django, OpenAI API
+
+#### **[Lectra](https://github.com/behnoudng/lectra)**
+
+A local multi-language lecture transcription workstation. Import long recordings, make nondestructive cuts, review paid transcription settings, and correct a canonical transcript in audio-synced or document view. 
 
 #### **[PromptBase](https://github.com/behnoudng/prompt_base)**
 
